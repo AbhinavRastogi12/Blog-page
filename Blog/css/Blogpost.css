@@ -1,0 +1,36 @@
+.post-img{
+    height: 404px;
+    overflow: hidden;
+    /* margin-top: 14px; */
+
+}
+.post-img img{
+    width: 100%;
+    /* height: 100%; */
+    /* border-radius: 80px; */
+
+}
+
+.Blogpost-content{
+    /* background-color: purple; */
+    text-align: center;
+}
+.Blogpost-content h1{
+    /* background-color: purple; */
+    text-align: center;
+}
+.Blogpost-content h1 p{
+    /* background-color: purple; */
+    /* text-align: center; */
+    font-size: 48px;
+}
+
+.row{
+    display: flex;
+    /* flex-direction: row; */
+}
+.more{
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
